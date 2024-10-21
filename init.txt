@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-user1 update init 
-=======
-user2 update init
->>>>>>> 13e28d30f1d82da17470e9a5cdfb0c434d54ccd9
+user1 update init
